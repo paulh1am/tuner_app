@@ -39,6 +39,7 @@ end
 gem "rails_12factor", group: :production
 
 gem 'httparty'
+gem 'font-awesome-rails'
 
 
 # gem 'bcrypt', '~> 3.1.7'
